@@ -1,0 +1,1 @@
+print("Tu jest prosty kalkulator")
