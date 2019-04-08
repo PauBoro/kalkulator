@@ -4,3 +4,5 @@ def dodaj():
 	b = int(input())
 	#blabla
 	print(a + b)
+	
+print('koniec programu!')
